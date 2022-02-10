@@ -1,0 +1,29 @@
+.how-it-works__header{
+  opacity: 0.8;
+  text-align: center;
+}
+
+/* a{
+  text-decoration: none;
+  /* color: black; */
+.cards{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.card{
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid rgb(230, 230, 230);
+  padding: 20px;
+  text-align: center;
+  transition: box-shadow .3s;
+}
+
+.card:hover {
+  box-shadow: 0 0 11px rgba(33,33,33,.2);
+}
+.card img {
+  height: 100px;
+}

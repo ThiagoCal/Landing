@@ -1,0 +1,23 @@
+.footer{
+  background: black;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+  text-align: center;
+}
+
+.links p{
+  color: whitesmoke;
+  text-align: center;
+}
+
+.footer a {
+  font-size: 30px;
+  color: #1EDD88;
+  text-decoration: none;
+}
+
+.footer .fas {
+  color: #BF0F12;
+}
